@@ -1,6 +1,6 @@
 BRASMOD is the first large-scale, open-access, tax-benefit microsimulation model for Brazil. Built within the EUROMOD software, our model encompasses the complete federal structure of taxes and benefits from 2008 to 2023, including the COVID-related benefits.
 
-BRASMOD was developed in a joint effort of the Research Center on Macroeconomics of Inequalities (\href{https://madeusp.com.br/en/}{MADE}) and the Public Sector Laboratory (\href{https://labpub.fea.usp.br/}{LabPub}), both affiliated with the School of Economics, Business, Accounting and Actuarial at the University of São Paulo (FEA-USP).
+BRASMOD was developed in a joint effort of the Research Center on Macroeconomics of Inequalities ({https://madeusp.com.br/en/}{MADE}) and the Public Sector Laboratory ({https://labpub.fea.usp.br/}{LabPub}), both affiliated with the School of Economics, Business, Accounting and Actuarial at the University of São Paulo (FEA-USP).
 
 The development of BRASMOD was supported by Fundação Instituto de Pesquisas Econômicas (Fipe), Samambaia Filantropias, Wellspring Philanthropic Fund, Open Society Foundations, and Hewlett Foundation. 
 
